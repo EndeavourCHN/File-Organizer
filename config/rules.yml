@@ -1,0 +1,8 @@
+categories:
+  图片: ['.jpg', '.jpeg', '.png', '.gif', '.bmp']
+  文档: ['.pdf', '.doc', '.docx', '.txt', '.xls', '.xlsx', '.ppt', '.pptx']
+  视频: ['.mp4', '.avi', '.mov', '.mkv']
+  音频: ['.mp3', '.wav', '.flac']
+  压缩包: ['.zip', '.rar', '.7z', '.tar', '.gz']
+  其他: []
+temp_exts: ['.tmp', '.temp', '.~', '.swp', '.bak']
